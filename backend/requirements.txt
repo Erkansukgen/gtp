@@ -137,7 +137,7 @@ pluggy==1.0.0
 prison==0.2.1
 prompt_toolkit==3.0.48
 proto-plus==1.25.0
-protobuf==4.23.2
+protobuf==4.25.8
 psutil==5.9.4
 psycopg2-binary==2.9.6
 ptyprocess==0.7.0
@@ -204,7 +204,7 @@ tzdata==2023.3
 uc-micro-py==1.0.1
 unicodecsv==0.14.1
 uritemplate==4.1.1
-urllib3==1.26.15
+urllib3==2.5.0
 wcwidth==0.2.13
 web3==6.4.0
 websockets==11.0.3
