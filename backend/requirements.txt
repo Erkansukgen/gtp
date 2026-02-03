@@ -137,7 +137,7 @@ pluggy==1.0.0
 prison==0.2.1
 prompt_toolkit==3.0.48
 proto-plus==1.25.0
-protobuf==4.23.2
+protobuf==6.33.5
 psutil==5.9.4
 psycopg2-binary==2.9.6
 ptyprocess==0.7.0
